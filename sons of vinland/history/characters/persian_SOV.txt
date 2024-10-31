@@ -1,0 +1,8 @@
+2607887 ={
+	name=Abu
+	dynasty = 1029008
+	culture=persian religion=shiite
+	father = 261013
+	971.11.22={ birth=yes }
+	1012.12.22={ death=yes }
+}

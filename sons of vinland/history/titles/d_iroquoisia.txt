@@ -1,0 +1,15 @@
+700.1.1={
+	law = succ_elective_gavelkind
+	law = true_cognatic_succession
+}
+744.1.1={holder= 0}
+
+1142.08.31={holder= 2607951} #Tadodaho[1009990123]
+1201.09.03={holder= 2607941} #Quacornowha[1009990123]
+1203.02.16={holder= 2607942} #Neconhecon[1009990123]
+1245.05.24={holder= 2607943} #Kkoquethagechton[1009990123]
+1253.06.17={holder= 2607944} #Pondoxy[1009990123]
+1295.02.08={holder= 2607945} #Kockkatowha[1009990123]
+1307.12.19={holder= 2607946} #Queshatowha[1009990123]
+1331.03.26={holder= 2607947} #Hopocan[1009990123]
+1384.07.11={holder= 2607948} #Neconhecond[1009990123]

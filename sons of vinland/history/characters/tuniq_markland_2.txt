@@ -1,0 +1,441 @@
+2607791 ={
+	name=Unalaq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607792={
+	name=Akluitok
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607791	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607793={
+	name=Ataneq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607792	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607794={
+	name=Kakortok
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607793	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607795={
+	name=Tanaraq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607794	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607796 ={
+	name=Imnek
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607795	#Nanotetauxien
+	870.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607797={
+	name=Sinaaq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed 
+	father= 2607796	#Pondoxy
+	910.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607798={
+	name=Nutarniq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607797	#Pondoxy
+	930.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607799={
+	name=Ipiktok
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607798	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607800={
+	name=Avaldamon
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607799	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607801={
+	name=Arjalinerk
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607800	#Pondoxy
+	985.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607802={
+	name=Koko
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel add_trait=celibate add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607801	#Kithteeleland
+	1020.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607803={
+	name=Nutaralak
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607802	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607804={
+	name=Sikuaq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607803	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607805={
+	name=Suluk
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607804	#Tamaqua
+	1080.11.3={ birth=yes }
+	1143.01.30={ death=yes }
+}
+2607806={
+	name=Tingenek
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607805	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607807={
+	name=Arrluk
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607806	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607808={
+	name=Nutarniq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607807	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607809={
+	name=Makittuq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607808	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607810={
+	name=Uukkarnit
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607809	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607811={
+	name=Kattituyok
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607810	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607812={
+	name=Buniq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607811	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607813={
+	name=Taqukaq
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	father= 2607812	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607814={
+	name=Kaya
+	dynasty=1009990077
+	culture=tuniq religion=tuniit_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607813	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}
+
+############
+
+2607815={
+	name=Iluqtuq
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607816={
+	name=Issermit
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	father= 2607815	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607817 ={
+	name=Angedlerk
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607816	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607818={
+	name=Nanuq
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	father= 2607817	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607819={
+	name=Ovagi
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	father= 2607818	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607820={
+	name=Kuvageegai
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	father= 2607819	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607821={
+	name=Akiak
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed add_trait=harelip 
+	father= 2607820	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607822={
+	name=Nasamiituuq
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	father= 2607821	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607823={
+	name=Nerromiktok
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	father= 2607822	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607824={
+	name=Aukaneck
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	father= 2607823	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607825={
+	name=Valdidida
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	father= 2607824	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607826={
+	name=Tootega
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel add_trait=celibate add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607825	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607827={
+	name=Nanuq
+	dynasty=1009990072
+	culture=tuniq religion=tuniit_pagan
+	father= 2607826	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607828={
+	name=Suinnak
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	father= 2607827	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607829={
+	name=Palartok
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607828	#Tamaqua
+	1080.11.3={ birth=yes }
+	1142.01.30={ death=yes }
+}
+2607830={
+	name=Akiak
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	father= 2607829	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607831={
+	name=Igalaq
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607830	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607832={
+	name=Purnaq
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607831	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607833={
+	name=Kunikpok
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607832	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607834={
+	name=Kingudlerk
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	father= 2607833	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607835={
+	name=Iluq
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607834	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607836={
+	name=Aningan
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607835	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607837={
+	name=Tipvigut
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	father= 2607836	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607838={
+	name=Pamiiyok
+	dynasty=1009990072
+	culture=innu religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607837	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}

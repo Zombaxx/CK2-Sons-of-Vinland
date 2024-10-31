@@ -1,0 +1,39 @@
+700.1.1={
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+745.1.1={holder= 2607663} #Miki[1009990073]
+766.1.1 = {
+	effect = {
+		location = {
+			add_province_modifier = {
+				modifier = incredibly_poor
+				duration = -1
+			}
+		}
+	}
+}
+773.07.21={holder= 2607664} #Nilak[1009990073]
+797.07.31={holder= 2607665} #Chulyin[1009990073]
+835.09.19={holder= 2607666} #Illiivat[1009990073]
+868.05.11={holder= 2607667} #Nerromiktok[1009990073]
+873.11.03={holder= 2607668} #Issorartuyok[1009990073]
+921.06.22={holder= 2607669} #Sesi[1009990073]
+930.01.14={holder= 2607670} #Anernerk[1009990073]
+944.04.11={holder= 2607671} #Piaktok[1009990073]
+989.11.11={holder= 2607672} #Tingenek[1009990073]
+1014.03.06={holder= 2607673} #Tunerk[1009990073]
+1029.04.13={holder= 2607674} #Iluliaq[1009990073]
+1081.01.12={holder= 2607675} #Uglu[1009990073]
+1096.12.09={holder= 2607676} #Nasamiituuq[1009990073]
+1103.03.21={holder= 2607677} #Anuniaq[1009990073]
+1141.05.09={holder= 2607678} #Irdlirvirisissong[1009990073]
+1168.04.02={holder= 2607679} #Tingenek[1009990073]
+1189.04.03={holder= 2607680} #Shila[1009990073]
+1225.12.02={holder= 2607681} #Tukkuttok[1009990073]
+1250.09.29={holder= 2607682} #Makpigat[1009990073]
+1279.08.16={holder= 2607683} #Ublureak[1009990073]
+1286.02.16={holder= 2607684} #Amaguq[1009990073]
+1320.08.25={holder= 2607685} #Keelut[1009990073]
+1339.06.16={holder= 2607686} #Pakak[1009990073]
+1367.07.13={holder= 2607687} #Arjalinerk[1009990073]

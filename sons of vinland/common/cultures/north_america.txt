@@ -1,0 +1,401 @@
+sivullirmiut = {
+	graphical_cultures = { tuniqgfx mesoamericangfx muslimgfx }
+	
+	tuniq = {
+		graphical_cultures = { tuniqgfx mesoamericangfx muslimgfx }
+
+		color = { 0.3 0.2 0.2 }
+
+		male_names = {
+			"K'aissape"
+			Adlartok Aga Avaldamon Aglakti Agloolik Aguta Ahnah Aipalovik Aituserk Akiak Akkikiktok Akkilokipok Akkituyok Akluitok Akna Akrittok Alornerk Amaguq Amak Anana Anernerk Aningan Annakpok Anuun Anuniaq Anyu Aput Aquutaq Arjalinerk Arnaaluk Arrluk Asiavik Assiminik Asungaq  Ataciara Ataneq Ataninnuaq Atka Aukaneck Aumanil Atkonartok Aukaneck Biisaiyowaq Buniq Chugach Chugiak Cikuq Cupun Deniigi Desna Ek Chua Eska Hey Igalaq Iglopuk Ikiaq Ikniqpalagaq Ileanaitut Illiivat Iluak Iluliaq Iluq Immuyak Imnek Injuquaq Inungoark Ipiktok Iqniq Irdlirvirisissong Issorartuyok Issudlerk Issumatar Itigiaq Iyaroak Kakrayok Kamik Kanguyak Kannoyak Kanosak Kanut Kapik Kappianartok Kappiataitok Karpok Kaskae Kassuq Kattituyok Kaya Keelut Keruguq Kesuk Keyush Kilalurak Kilaun Kinaktok Kinalik Kinapak Kingudlerk Kinguyakkii Kirima Koko Kakortok Krernertok Kukuq Kulitak Kunikpok Kunwaktok Kussuyok Kuvageegai
+		Maguyuk Makittuq Makoktok Makpigat Mangokpok Maniitok Manirak Masaaraq Massak Massalerauvok Mauja Mequssuk Miki Miksa Mumk Naartok Naga Nagojut Nannuraluk Nanuq Nasamiituuq Nauja Negiliq Nerromiktok Nertornartok Nigaq Nilak Ningakpok Nini Nippikortuyok Noahtakmiut Noatak Nukilik Nukka Nunataq Nutaaq Nutaralak Nutarniq Okauyak Olikpok Onartok Oogrooq Oomailiq Ovagi Pakak Palartok Pamiiruq Pamiiyok Panik Pattangayok Pekartok Piaktok Pikatti Piktaungitok Pitsiark Poallu Pukak Pukiq Pukulria Purnaq Putyuk Qaniit Qannik Qatqain Qatiichii Qeorvik Qigiq Qilaq Qimmiq Qimugkauyar Qimugta Qimukti Qopuk Quvianuq Sadluyok Saghani Sakari Salaksartok Sangilak Sedna Sesi Shesh Shila Shtiya Sialuk Siarut Siku Sikuaq Silatuyok Sinaaq Sinniktok Sirmiq Sitiyok Sivudlerk Sos Suinnak Suka Suluk Sura Takiyok Tatkret Takubvik Taliriktug Tanaraq Taqukaq Tarralikitak Tartok Tattilgat Tavrani Tavra Tekkeitsertok Tiglikte Tiilaqiia Tikaani
+		Tikivik Tiquana Tiguaq Tingenek Tingiyok Tipvigut Tlate Hiin Tomkin Tonrar Tonraq Tootega Torngasak Tornuaq Tuaq Tukkuttok Tuktu Tukturaluk Tullik Tulugaq Tulukaruk Tunerk Tungortok Tungulria Tupilek Tupit Tuuluuwaq Tuwawi Ublureak Uglu Uiritsaktak Ukluk Ulva Umiak Umiaktorvik Unalaq Uukkarnit Uvlugiaq Uyarak Yakone Yuralria
+		}
+
+		female_names = {
+			Adlartok Aga Aglakti Agloolik Aguta Ahnah Aipalovik Aituserk Akiak Akkikiktok Akkilokipok Akkituyok Akluitok Akna Akrittok Alornerk Amaguq Amak Anana Anernerk Aningan Annakpok Anuun Anuniaq Anyu Aput Aquutaq Arjalinerk Arnaaluk Arrluk Asiavik Assiminik Asungaq  Ataciara Ataneq Ataninnuaq Atka Aukaneck Aumanil Atkonartok Aukaneck Biisaiyowaq Buniq Chugach Chugiak Cikuq Cupun Deniigi Desna Ek Chua Eska Hey Igalaq Iglopuk Ikiaq Ikniqpalagaq Ileanaitut Illiivat Iluak Iluliaq Iluq Immuyak Imnek Injuquaq Inungoark Ipiktok Iqniq Irdlirvirisissong Issorartuyok Issudlerk Issumatar Itigiaq Iyaroak Kakrayok Kamik Kanguyak Kannoyak Kanosak Kanut Kapik Kappianartok Kappiataitok Karpok Kaskae Kassuq Kattituyok Kaya Keelut Keruguq Kesuk Keyush Kilalurak Kilaun Kinaktok Kinalik Kinapak Kingudlerk Kinguyakkii Kirima Koko Kakortok Krernertok Kukuq Kulitak Kunikpok Kunwaktok Kussuyok Kuvageegai
+		Maguyuk Makittuq Makoktok Makpigat Mangokpok Maniitok Manirak Masaaraq Massak Massalerauvok Mauja Mequssuk Miki Miksa Mumk Naartok Naga Nagojut Nannuraluk Nanuq Nasamiituuq Nauja Negiliq Nerromiktok Nertornartok Nigaq Nilak Ningakpok Nini Nippikortuyok Noahtakmiut Noatak Nukilik Nukka Nunataq Nutaaq Nutaralak Nutarniq Okauyak Olikpok Onartok Oogrooq Oomailiq Pakak Palartok Pamiiruq Pamiiyok Panik Pattangayok Pekartok Piaktok Pikatti Piktaungitok Pitsiark Poallu Pukak Pukiq Pukulria Purnaq Putyuk Qaniit Qannik Qatqain Qatiichii Qeorvik Qigiq Qilaq Qimmiq Qimugkauyar Qimugta Qimukti Qopuk Quvianuq Sadluyok Saghani Sakari Salaksartok Sangilak Sedna Sesi Shesh Shila Shtiya Sialuk Siarut Siku Sikuaq Silatuyok Sinaaq Sinniktok Sirmiq Sitiyok Sivudlerk Sos Suinnak Suka Suluk Sura Takiyok Tatkret Takubvik Taliriktug Tanaraq Taqukaq Tarralikitak Tartok Tattilgat Tavrani Tavra Tekkeitsertok Tiglikte Tiilaqiia Tikaani
+		Tikivik Tiquana Tiguaq Tingenek Tingiyok Tipvigut Tlate Hiin Tomkin Tonrar Tonraq Tootega Torngasak Tornuaq Tuaq Tukkuttok Tuktu Tukturaluk Tullik Tulugaq Tulukaruk Tunerk Tungortok Tungulria Tupilek Tupit Tuuluuwaq Tuwawi Ublureak Uglu Uiritsaktak Ukluk Ulva Umiak Umiaktorvik Unalaq Uukkarnit Uvlugiaq Uyarak Valdidida Vethildi Yakone Yuralria
+		}
+
+		dynasty_title_names = no
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+	}
+
+	inuit = {
+		graphical_cultures = { tuniqgfx mesoamericangfx muslimgfx }
+
+		color = { 0.3 0.5 0.6 }
+
+		male_names = {
+			Adlartok Aga Aglakti Agloolik Aguta Ahnah Aipalovik Aituserk Akiak Akkikiktok Akkilokipok Akkituyok Akluitok Akna Akrittok Alornerk Amaguq Amak Anana Anernerk Aningan Annakpok Anuun Anuniaq Anyu Aput Aquutaq Arjalinerk Arnaaluk Arrluk Asiavik Assiminik Asungaq  Ataciara Ataneq Ataninnuaq Atka Aukaneck Aumanil Atkonartok Aukaneck Biisaiyowaq Buniq Chugach Chugiak Cikuq Cupun Deniigi Desna Ek Chua Eska Hey Igalaq Iglopuk Ikiaq Ikniqpalagaq Ileanaitut Illiivat Iluak Iluliaq Iluq Immuyak Imnek Injuquaq Inungoark Ipiktok Iqniq Irdlirvirisissong Issorartuyok Issudlerk Issumatar Itigiaq Iyaroak Kakrayok Kamik Kanguyak Kannoyak Kanosak Kanut Kapik Kappianartok Kappiataitok Karpok Kaskae Kassuq Kattituyok Kaya Keelut Keruguq Kesuk Keyush Kilalurak Kilaun Kinaktok Kinalik Kinapak Kingudlerk Kinguyakkii Kirima Koko Kakortok Krernertok Kukuq Kulitak Kunikpok Kunwaktok Kussuyok Kuvageegai
+		Maguyuk Makittuq Makoktok Makpigat Mangokpok Maniitok Manirak Masaaraq Massak Massalerauvok Mauja Mequssuk Miki Miksa Mumk Naartok Naga Nagojut Nannuraluk Nanuq Nasamiituuq Nauja Negiliq Nerromiktok Nertornartok Nigaq Nilak Ningakpok Nini Nippikortuyok Noahtakmiut Noatak Nukilik Nukka Nunataq Nutaaq Nutaralak Nutarniq Okauyak Olikpok Onartok Oogrooq Oomailiq Pakak Palartok Pamiiruq Pamiiyok Panik Pattangayok Pekartok Piaktok Pikatti Piktaungitok Pitsiark Poallu Pukak Pukiq Pukulria Purnaq Putyuk Qaniit Qannik Qatqain Qatiichii Qeorvik Qigiq Qilaq Qimmiq Qimugkauyar Qimugta Qimukti Qopuk Quvianuq Sadluyok Saghani Sakari Salaksartok Sangilak Sesi Shesh Shila Shtiya Sialuk Siarut Siku Sikuaq Silatuyok Sinaaq Sinniktok Sirmiq Sitiyok Sivudlerk Sos Suinnak Suka Suluk Sura Takiyok Tatkret Takubvik Taliriktug Tanaraq Taqukaq Tarralikitak Tartok Tattilgat Tavrani Tavra Tekkeitsertok Tiglikte Tiilaqiia Tikaani
+		Tikivik Tiquana Tiguaq Tingenek Tingiyok Tipvigut Tlate Hiin Tomkin Tonrar Tonraq Tootega Torngasak Tornuaq Tuaq Tukkuttok Tuktu Tukturaluk Tullik Tulugaq Tulukaruk Tunerk Tungortok Tungulria Tupilek Tupit Tuuluuwaq Tuwawi Ublureak Uglu Uiritsaktak Ukluk Ulva Umiak Umiaktorvik Unalaq Uukkarnit Uvlugiaq Uyarak Yakone Yuralria
+		}
+
+		female_names = {
+			Adlartok Aga Aglakti Agloolik Aguta Ahnah Aipalovik Aituserk Akiak Akkikiktok Akkilokipok Akkituyok Akluitok Akna Akrittok Alornerk Amaguq Amak Anana Anernerk Aningan Annakpok Anuun Anuniaq Anyu Aput Aquutaq Arjalinerk Arnaaluk Arrluk Asiavik Assiminik Asungaq  Ataciara Ataneq Ataninnuaq Atka Aukaneck Aumanil Atkonartok Aukaneck Biisaiyowaq Buniq Chugach Chugiak Cikuq Cupun Deniigi Desna Ek Chua Eska Hey Igalaq Iglopuk Ikiaq Ikniqpalagaq Ileanaitut Illiivat Iluak Iluliaq Iluq Immuyak Imnek Injuquaq Inungoark Ipiktok Iqniq Irdlirvirisissong Issorartuyok Issudlerk Issumatar Itigiaq Iyaroak Kakrayok Kamik Kanguyak Kannoyak Kanosak Kanut Kapik Kappianartok Kappiataitok Karpok Kaskae Kassuq Kattituyok Kaya Keelut Keruguq Kesuk Keyush Kilalurak Kilaun Kinaktok Kinalik Kinapak Kingudlerk Kinguyakkii Kirima Koko Kakortok Krernertok Kukuq Kulitak Kunikpok Kunwaktok Kussuyok Kuvageegai
+		Maguyuk Makittuq Makoktok Makpigat Mangokpok Maniitok Manirak Masaaraq Massak Massalerauvok Mauja Mequssuk Miki Miksa Mumk Naartok Naga Nagojut Nannuraluk Nanuq Nasamiituuq Nauja Negiliq Nerromiktok Nertornartok Nigaq Nilak Ningakpok Nini Nippikortuyok Noahtakmiut Noatak Nukilik Nukka Nunataq Nutaaq Nutaralak Nutarniq Okauyak Olikpok Onartok Oogrooq Oomailiq Pakak Palartok Pamiiruq Pamiiyok Panik Pattangayok Pekartok Piaktok Pikatti Piktaungitok Pitsiark Poallu Pukak Pukiq Pukulria Purnaq Putyuk Qaniit Qannik Qatqain Qatiichii Qeorvik Qigiq Qilaq Qimmiq Qimugkauyar Qimugta Qimukti Qopuk Quvianuq Sadluyok Saghani Sakari Salaksartok Sangilak Sedna Sesi Shesh Shila Shtiya Sialuk Siarut Siku Sikuaq Silatuyok Sinaaq Sinniktok Sirmiq Sitiyok Sivudlerk Sos Suinnak Suka Suluk Sura Takiyok Tatkret Takubvik Taliriktug Tanaraq Taqukaq Tarralikitak Tartok Tattilgat Tavrani Tavra Tekkeitsertok Tiglikte Tiilaqiia Tikaani
+		Tikivik Tiquana Tiguaq Tingenek Tingiyok Tipvigut Tlate Hiin Tomkin Tonrar Tonraq Tootega Torngasak Tornuaq Tuaq Tukkuttok Tuktu Tukturaluk Tullik Tulugaq Tulukaruk Tunerk Tungortok Tungulria Tupilek Tupit Tuuluuwaq Tuwawi Ublureak Uglu Uiritsaktak Ukluk Ulva Umiak Umiaktorvik Unalaq Uukkarnit Uvlugiaq Uyarak Yakone Yuralria
+		}
+
+		dynasty_title_names = no
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+	}
+
+
+}
+
+cree_algonquian = {
+	graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+
+	innu = {
+		graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+		color = { 0.7 0.5 0.1 }
+
+		male_names = {
+Aissimess Akuaukusht Apinam_Abraham Ashtunishish Atamakaniss Atiku Atshen Emish Kaminaushit Kanishutakashtasht Kaniuekutat Kapapisht Kapinien_Gabriel Kashupasset Katshinukapaut Katshipunasht Kauitshi-Katshinat Kautatikumit Kuekuatsheu Kutshinapess Maikan Manitesh Maniteu Matiu Meshkana Minapakun Minutshinishkuess Mishen Mishta-Etuat Mishta-Napesh Mishtauiapeu Mitshishu Napess Napeutiku Natupaniu Nutamikuesh Pekissiu Pien Pienshak Pikutushan Pipitsheu Pitan_Peter Shakani Shanti Shapatish Shimiu Shinapiu Shinipesht Shuashem Shushep_Joseph Shushepiss Tanien Tshakashue Tshanitshish Tshim_Jacob Tshimushuminu Tshishennish Tshishkuetutsheunnu Tshishpush Tumassat_Thomas Uashaunnu Uatshitshish Uemishtikushiss Uitshikapeu Uitshitshimushish Ukueiau Uniam Uniam_William Unikush Upinau Ussinitshishu Utanukueu Utshimau Utshimauapeu
+			}
+		female_names = {
+Aniet Anishen Anissikutshaushkueu Anitshishkueu Apikushish Ekuanitshishkueu Ishkuess Kanakunash Kanakunau Katinen Kautatshet Manikanetishkueu Manishai Manishan Mestenapeo Nisseushkueu Penash Penenu Shanimen Shanut Shushepin Tshiueianukueu Ukaumau
+			}
+
+		dynasty_title_names = no
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+	}
+
+	atikamekw = {
+		graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+		color = { 0.9 0.8 0.4 }
+
+		male_names = {
+			Atika Etutikueu Kanikuen Kaniuekutat Katshituask Kenussemu Kueskapeu Manish Manteskueu Manuk Mistipinip Muskushish Nashitt Ninitshitau Nuke Petapanu Pineshikan Ponas Shenakuteu Shimish Shinapiu Shushepis Tshenish Tshetshepateu Tshishennish Uapannish Uitshitshimushish Ustinitshu Waspaskw 
+		}
+		female_names = {
+			Ahapiskueu Pikusush Ashenik Kaiekuskakut Kasseukanit Kauinimishit Keuapakanaskueu Kutesh Kutshake Maniteu Matanueskueu Miniskuesh Mushuau Muskumin Nashape Nenuskueu Neskueu Niakau Pishum Pishumuskuess Shanipiash Sharika Shekau Shunne Skueu Uapan Uapukun Uashamamou Ueuetimiskueu Utshimaskues 
+		}
+
+		dynasty_title_names = no
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+	}
+
+	beothuk = {
+		graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+		color = { 0.8 0.6 0.3 }
+
+		male_names = {
+Assoyt Aaduth Aenamin Adenishit Adiab Amet Amina Anin Annooce Anun Ashmudyim Badisut Baroodisick Bathuc Begodor Boodowit Borod Bukashaman Bukashamesh Conasoob Dattomeish Deedrashow Dogajavick Ebautho Edru Eeg Eeshoo Eewa-en Emoethook Gadgemish Gobidin Guashuwit Izzobauth Kannabuch Kius Kosweet Magaraguis Magorun Mamishet Mammadronit Mamshet Mangarewius Mattuis Moidewsee Moisamadrook Mokothut Mozazeosh Newin Nonosabasut Oodrat Osthuk Shawatharott Sosheet Wasemook Washewtch Weshomesh Wieith Woodch Yeech Zathrook
+			}
+		female_names = {
+Abideshook Adobonee Aeueece Ashabooth Ashei Bathue Baubooshrat Bogodoret Bogomot Boobasha Budiseet Corrasoob Debine Demasduit Deyn-yad Ebanthoo Edree Eed Eenoaja Eeshangeyghth Eesheet Emamoose Emamooset Emoethook Ewinon Gaboweete Gawzadun Haoot Homedich Madabooch Madyna Mamishet Obseet Odensook Odjet Odusweet Osuk Osweet Oubee Sha'poth Shanawdithit Shawwayet Shebohoweet Shedothun Theehone Waunathoake Weenoun Woadthoowin Woaseeash Woassut Yeathun
+			}
+
+		dynasty_title_names = no
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+	}
+}
+wabanaki_algonquian = {
+	graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+	
+	mikmaq = {
+		graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+		color = { 0.25 0.34 0.66 }
+
+		male_names = {
+			Abukcheech Achak Ahanu Anakausuen Aranck Askook Askuwheteau Chogan Lusilussit Enkoodabaoo Etchemin Etlelooat Hassun Huritt Keme Kesegowaase Kestejoo Kitchi Machk Makkapitew Matchitehew Matchitisiw Matunaaga Matwau Megedagik Melkedoodum Mukki Nootau Nonosbawsut Nosh Noshi Pajackok Pannoowau Powwaw Rowtag Segenam Sucki Sunukkuhkau Taregan Tihkoosue Togquos Wematin
+
+		}
+		female_names = {
+			Alawa Alsoomse Anna Chepi Dabun Demasduit Hausis Hausisse Hurit Kanti Keegsquaw Kimi Makkitotosimew Nadie Nijlon Nittawosew Numees Nuttah Odina Oota Shanawdithit Pauwau Pules Sokanon Sokw Sooleawa Takhi Wikimak Winona
+	
+		}
+
+		from_dynasty_prefix = ""
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+
+		pat_grf_name_chance = 50
+
+		mat_grf_name_chance = 0
+
+		father_name_chance = 0
+
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+
+		mother_name_chance = 0
+
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+
+	}
+
+	abenaki = {
+
+		graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+
+		color = { 0.18 0.21 0.55 }
+
+
+		male_names = {
+
+			Abukcheech Achak Ahanu Anakausuen Aranck Askook Askuwheteau Chogan Lusilussit Enkoodabaoo Etchemin Etlelooat Hassun Huritt Keme Kesegowaase Kestejoo Kitchi Machk Makkapitew Matchitehew Matchitisiw Matunaaga Matwau Megedagik Melkedoodum Mukki Nootau Nonosbawsut Nosh Noshi Pajackok Pannoowau Powwaw Rowtag Segenam Sucki Sunukkuhkau Taregan Tihkoosue Togquos Wematin
+
+		}
+		female_names = {
+
+			Alawa Alsoomse Anna Chepi Dabun Demasduit Hausis Hausisse Hurit Kanti Keegsquaw Kimi Makkitotosimew Nadie Nijlon Nittawosew Numees Nuttah Odina Oota Shanawdithit Pauwau Pules Sokanon Sokw Sooleawa Takhi Wikimak Winona
+
+		}
+
+
+		from_dynasty_prefix = ""
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+
+		pat_grf_name_chance = 50
+
+		mat_grf_name_chance = 0
+		
+        father_name_chance = 0
+
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+
+		mother_name_chance = 0
+
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+
+	}
+
+	massachusett = {
+
+		graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+
+		color = { 0.16 0.39 0.77 }
+
+
+		male_names = {
+			Tetabuxike Bukongehelas Hockingpomskenn Kechkawhanund Alimee Tomaguee Missenewand Petchekekapon 
+			Kithteeleland Lapahnihe Apacahund Netahopuna Tunis Caghkoo Petchenanalas Quenaghtoothmait Pooshies 
+			Nanotetauxien Sarcoxey Neconhecond Kockkatowha Quacornowha Neshapanacumin Queshatowha Pondoxy 
+			Ahlaachick Neconhecon Rockatowah Buckongahelas Gelelemend Oratam Neolin Hopocan Tamanend Tamaqua 
+			Teedyuscung Kkoquethagechton Kockkockquas
+		}
+		female_names = {
+			Awowas Moconnoquah Cholena 
+		}
+
+		from_dynasty_prefix = ""
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+
+		pat_grf_name_chance = 50
+
+		mat_grf_name_chance = 0
+		
+        father_name_chance = 0
+
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+
+		mother_name_chance = 0
+
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+
+	}
+
+}
+
+iroquoian = {
+	graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+
+
+
+	iroquois = {
+
+		graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+
+		color = { 0.54 0.77 0.31 }
+
+
+		male_names = {
+			Theyanoguin Teiorhenhsere Thayendanega Oronhyatekha Onogwendahonji Touighnatogon Oheadanghton 
+			Tayagonendagighti Tehonwaenghrigagi Otyadonenghti Dagaheari Oraghoaenendagen Onnonghsawenghti 
+			Kayenthoghke Cageaga Sawedowa Kiondushowa Oncahye Soaheas Otachsaka Tekahias Onecnsetee Kiatulaho 
+			Kiandogewa Owenewa Gyantwaia Gyasota Kannasseee Achiout Anachout Chishekoa Sessewa Sicahowa Tewanias 
+			Snoachshowa Hickonquash Ononyeahnee Konneatorteeooh Tokenhyouau Oneshauee Aupaumut Neeshonshuk 
+			Sohhonteoquent Ooduhtsait Konoohqung Tossonggaulolus Skenendoa Oneatorleeooh Kussauwatau 
+			Kohnyeaugaong Shaguiesa Teeroos Sooshaoowau Sonhyoowauna Onaahhah Hotoshahen Kaukondanaiya 
+			Kosshishtowau Oojaugenta Toheonggo Ootaguasso Joonondauwanonch Kiyauhaonh Ootaujeaugenth Tauhoondos 
+			Twaukewasha Sequidonguquee Kodjeote Kenjauaugus Soononhquaukau Twenniyana Jishkaaga Tuggehshotta 
+			Tehongyagauna Tehongyoowush Konneyoowesot Tioohquaottakauna Taoundaudeesh Honayawus Soggooyawauthau 
+			Konyootiayoo Sauhtakaongyees Ounnashattakau Kaungyanehquee Sooayoowau Kaujeagaonh Soonoohshoowau 
+			Thaoowaunias Soonongjoowau Kiantwhauka Kaunehshonggoo Kenneronkwa Telenemut Katarioniecha
+			Kendarindgon Nondiyauka Kanatsoyh Eootenyootauook Aqueia Tarondawagon
+		}
+		female_names = {
+			Tyonajanegen Alliquippa Konwatsitiaienni Genessee Satekon Tekakwitha 
+		}
+
+		from_dynasty_prefix = ""
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+
+		pat_grf_name_chance = 50
+
+		mat_grf_name_chance = 0
+		
+        father_name_chance = 0
+
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+
+		mother_name_chance = 0
+
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+
+	}
+
+	kanata = {
+
+		graphical_cultures = { amerindiangfx mesoamericangfx muslimgfx }
+
+		color = { 0.74 0.83 0.33 }
+
+
+		male_names = {
+			Ahatsistari Adario Dunquat Tarhe Teyandatontec Cheyawe Doueyenteat Terhataw Datasay Maudoronk 
+			Teyyaghtwa Haroenyou Tehaawtorens Awmeyeeray Stayetah Shateyyaronyah Daughshuttayah Shaawrunthe 
+			Thateyyanayoh Tahunehawttee Shawrunthie Tschauendah Rontondu Tuayaurontoyou Dauatout Horonu 
+			Hawdoro Skotous Quouqua Skahomat Teoudetosso Miere
+		}
+		female_names = {
+			Taima Chekaqua Kataka Mecaitch Neshota Chagasort Pecama Namachewana Nanochaatasa Taimah Catchemackeseo
+		}
+
+		from_dynasty_prefix = ""
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+
+		pat_grf_name_chance = 50
+
+		mat_grf_name_chance = 0
+		
+        father_name_chance = 0
+
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+
+		mother_name_chance = 0
+
+
+		modifier = high_american_culture_modifier
+
+		allow_looting = yes
+
+	}
+
+}

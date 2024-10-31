@@ -1,0 +1,198 @@
+k_norway = {
+		d_kujalleq = {
+
+			color={ 115 214 129 }
+			color2={ 220 220 220 }
+
+			tuniq = "Tuniit Nunaat"
+			norse = "Grönland"
+			norwegian = "Grönland"
+			danish = "Grönland"
+			swedish = "Grönland"
+			
+			capital = 2015 # Qaqortoq (Kujalleg)
+			
+			c_kujalleg = { # Qaqortoq
+				color={ 75 104 39 }
+				color2={ 220 220 220 }
+				
+				norse = "Eystribyggð"
+				norwegian = "Eystribyggð"
+				danish = "Eystribyggð"
+				swedish = "Eystribyggð"
+				
+				b_qassiarsuk = {
+					norse = "Brattahlíð"
+					norwegian = "Brattahlíð"
+					danish = "Brattahlíð"
+					swedish = "Brattahlíð"
+				}
+				b_qaqortoq = {
+					norse = "Hvalsey"
+					norwegian = "Hvalsey"
+					danish = "Hvalsey"
+					swedish = "Hvalsey"
+				}
+				b_igaliku = {
+					norse = "Garðar"
+					norwegian = "Garðar"
+					danish = "Garðar"
+					swedish = "Garðar"
+				}
+				b_narsaq = {
+					norse = "Dyrnæs"
+					norwegian = "Dyrnæs"
+					danish = "Dyrnæs"
+					swedish = "Dyrnæs"
+				}
+				b_narsaq_kujalleq = {
+					norse = "Ikigait"
+					norwegian = "Ikigait"
+					danish = "Ikigait"
+					swedish = "Ikigait"
+				}
+				b_nunap_isua = {
+					norse = "Herjolfsnes"
+					norwegian = "Herjolfsnes"
+					danish = "Herjolfsnes"
+					swedish = "Herjolfsnes"
+				}
+				b_alluitsup_paa = {
+					norse = "Vatnahverfi"
+					norwegian = "Vatnahverfi"
+					danish = "Vatnahverfi"
+					swedish = "Vatnahverfi"
+				}
+			}
+			c_qeqqata = {
+
+				color={ 55 124 49 }
+				color2={ 220 220 220 }
+				
+				norse = "Miðterste"
+				norwegian = "Miðterste"
+				danish = "Miðterste"
+				swedish = "Miðterste"
+				
+				b_sisimiut = {
+					norse = "Holsteinsborg"
+					norwegian = "Holsteinsborg"
+					danish = "Holsteinsborg"
+					swedish = "Holsteinsborg"
+				}
+				b_kangaamiut = {
+					norse = "Gammel Sukkertoppen"
+					norwegian = "Gammel Sukkertoppen"
+					danish = "Gammel Sukkertoppen"
+					swedish = "Gammel Sukkertoppen"
+				}
+				b_maniitsoq = {
+					norse = "Sukkertoppen"
+					norwegian = "Sukkertoppen"
+					danish = "Sukkertoppen"
+					swedish = "Sukkertoppen"
+				}
+				b_kangerlussuaq = {
+					norse = "Sondrestrom"
+					norwegian = "Sondrestrom"
+					danish = "Sondrestrom"
+					swedish = "Sondrestrom"
+				}
+				b_napasoq = {
+				}
+				b_itilleq = {
+				}
+				b_sarfannguit = {
+				}
+			}
+			c_sermersooq = {
+
+				color={ 5 114 39 }
+				color2={ 220 220 220 }
+
+				holy_site=tuniit_pagan
+				holy_site=tuniit_pagan_reformed
+				
+				norse = "Vestribyggð"
+				norwegian = "Vestribyggð"
+				danish = "Vestribyggð"
+				swedish = "Vestribyggð"
+				
+				b_sermersooq = {
+					norse = "Sandnæs"
+					norwegian = "Sandnæs"
+					danish = "Sandnæs"
+					swedish = "Sandnæs"
+				}
+				b_ameralik = {
+					norse = "Lysufjord"
+					norwegian = "Lysufjord"
+					danish = "Lysufjord"
+					swedish = "Lysufjord"
+				}
+				b_nuuk = {
+					norse = "Godthaab"
+					norwegian = "Godthaab"
+					danish = "Godthaab"
+					swedish = "Godthaab"
+				}
+				b_ujarassuit = {
+					norse = "Anavik"
+					norwegian = "Anavik"
+					danish = "Anavik"
+					swedish = "Anavik"
+				}
+				b_kangeq = {
+					norse = "Haabets Oe"
+					norwegian = "Haabets Oe"
+					danish = "Haabets Oe"
+					swedish = "Haabets Oe"
+				}
+				b_atammik = {
+				}
+				b_kapisillit = {
+				}
+			}
+			c_ivittuut = {
+
+				color={ 25 144 89 }
+				color2={ 220 220 220 }
+				
+				norse = "Miðribyggð"
+				norwegian = "Miðribyggð"
+				danish = "Miðribyggð"
+				swedish = "Miðribyggð"
+				
+				b_ivittuut = {
+					norse = "Miðribyggð"
+					norwegian = "Miðribyggð"
+					danish = "Miðribyggð"
+					swedish = "Miðribyggð"
+				}
+				b_kangilinnguit = {
+					norse = "Gronnedal"
+					norwegian = "Gronnedal"
+					danish = "Gronnedal"
+					swedish = "Gronnedal"
+				}
+				b_paamiut = {
+					norse = "Frederikshaab"
+					norwegian = "Frederikshaab"
+					danish = "Frederikshaab"
+					swedish = "Frederikshaab"
+				}
+				b_arsuk = {
+				}
+				b_ikermiut = {
+				}
+				b_qeqertarsuatsiaat = {
+					norse = "Fiskernæs"
+					norwegian = "Fiskernæs"
+					danish = "Fiskernæs"
+					swedish = "Fiskernæs"
+				}
+				b_nunarssit = {
+				}
+			}
+		}
+}

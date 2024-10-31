@@ -1,0 +1,20 @@
+# County Title
+title = c_wampanoag
+
+# Settlements
+max_settlements = 5
+b_wampanoag = tribal
+b_teaolennepe = temple
+b_ouylanjuao = tribal
+b_minsleontrantha = tribal
+
+# Misc
+culture = massachusett
+religion = algic_pagan terrain = forest
+
+# History
+
+999.1.1 = {
+	b_ouylanjuao = tribal
+	b_minsleontrantha = tribal
+}

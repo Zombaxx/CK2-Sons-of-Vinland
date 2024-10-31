@@ -1,0 +1,485 @@
+#Helgi and Finnbogi
+
+2607888 ={
+	name=Helgi
+	dynasty = 1062205
+	culture=norse religion=norse_pagan
+	father = 261150
+	mother = 261151
+	971.10.13={ birth=yes }
+	1012.12.22={ death=yes }
+}
+
+2607889 ={
+	name=Finnbogi
+	dynasty = 1062205
+	culture=norse religion=norse_pagan
+	father = 261150
+	mother = 261151
+	968.11.22={ birth=yes }
+	1012.12.22={ death=yes }
+}
+
+#Thorvard
+
+2607890 ={
+	name=Þorvard
+	dynasty = 1009990273
+	culture=norse religion=norse_pagan
+	trait = craven
+	972.11.22={ birth=yes }
+	998.12.30={
+		add_spouse= 26908043
+	}
+	1068.12.22={ death=yes }
+}
+
+#Naddoðr Dynasty (Erik the Red Dynasty)
+
+2607891 = {
+	name="Eirikr"
+	dynasty=1043504 #Naddoðr
+	religion="norse_pagan"
+	culture="norse"
+	father=214081
+	martial=8
+	stewardship=8
+	diplomacy=7
+	intrigue=5
+	learning=3
+	trait=brave
+	trait=viking
+	trait=content
+	trait=sympathy_christendom
+	
+	950.1.1={
+		birth="950.1.1"
+	}
+	970.1.1={
+		give_nickname=nick_the_red
+	}
+	980.1.1 = {
+		create_bloodline = {
+			type = eirikr
+		}
+	}
+	1000.1.1={
+		capital=c_kujalleg
+	}
+	1000.1.1={
+		add_trait = cough
+		add_trait=has_tuberculosis
+		add_trait = fever
+	}
+	1001.1.1={
+		culture="norse"
+		religion="catholic"
+	}
+	1003.1.1={
+		death={
+			death_reason=death_trait
+		}
+	}
+}
+
+2607892 = {
+	name="Leifr"
+	dynasty=1043504 #Naddoðr
+	religion="norse_pagan"
+	culture="norse"
+	father= 2607891
+	diplomacy = 12
+	martial = 8
+	stewardship = 8
+	intrigue = 6
+	learning = 3
+	trait=gregarious
+	trait=ambitious
+	trait=just
+	trait=quick
+	trait=brilliant_strategist
+	trait=brave
+	970.1.1={
+		birth="970.1.1"
+	}
+	999.1.1={
+		give_nickname=nick_the_lucky
+	}
+	1000.1.1={
+		culture="norse"
+		religion="catholic"
+	}
+	1003.1.1={
+		capital=c_kujalleg
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+2607893 = {
+	name="Þorvald"
+	dynasty=1043504 #Naddoðr
+	religion="norse_pagan"
+	culture="norse"
+	father= 2607891
+	972.3.11={
+		birth="972.3.11"
+	}
+	999.1.1={
+		culture="norse"
+		religion="norse_pagan"
+	}
+	999.12.31={
+		death = {
+			death_reason = death_battle
+			killer = 2607624 # Pitan
+		}
+	}
+}
+
+2607894 = {
+	name="Þorsteinn"
+	dynasty=1043504 #Naddoðr
+	culture="norse"
+	religion="norse_pagan"
+	father= 2607891
+	973.11.10={
+		birth="973.11.10"
+	}
+	1000.1.1={
+		add_trait = cough
+		add_trait=has_tuberculosis
+		add_trait = fever
+	}
+	1003.1.1={
+		death={
+			death_reason=death_trait
+		}
+	}
+}
+
+2607895 = {
+	name="Freydis"
+	female = yes
+	dynasty=1043504 #Naddoðr
+	culture="norse"
+	religion="norse_pagan"
+	father= 2607891
+	martial=9
+	intrigue=7
+	trait=legit_bastard
+	trait=skilled_tactician
+	trait=quick
+	trait=viking
+	trait=brave
+	trait="sympathy_christendom"
+	977.1.1={
+		birth="977.1.1"
+	}
+	990.12.30={
+		add_spouse= 2607890
+	}
+	999.1.1={
+		effect={
+			add_friend = 2607892
+			add_rival = 2607888
+			add_rival = 2607889
+		}
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+
+
+
+2607896 = {
+	name="Þorðar"
+	dynasty=502 #af Munso
+	culture="norse"
+	religion="norse_pagan"
+	father= 163106
+	945.12.1={
+		birth="945.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+
+2607897 = {
+	name="Snorri"
+	dynasty=502 #af Munso
+	culture="norse"
+	religion="norse_pagan"
+	father= 2607898
+	mother= 2607899
+	999.12.31={
+		birth="975.8.5"
+	}
+	1065.10.12={
+		death="1065.10.12"
+	}
+}
+
+
+
+2607898 = {
+	name="Þorfinn"
+	dynasty=502 #af Munso
+	culture="norse"
+	religion="norse_pagan"
+	father= 2607896
+	diplomacy=9
+	martial=5
+	stewardship=9
+	trait=midas_touched
+	trait=ambitious
+	trait=proud
+	trait=greedy
+	trait=viking
+	trait="sympathy_christendom"
+	975.8.5={
+		birth="975.8.5"
+	}
+	970.1.1={
+		give_nickname=nick_karlsefni
+	}
+	999.1.1={
+		effect={
+			add_friend = 2607892
+			add_friend = 2607895
+		}
+	}
+	999.12.30={
+		add_spouse= 2607899
+	}
+	1065.10.12={
+		death="1065.10.12"
+	}
+}
+
+2607899 = {
+	name="Guðrið"
+	dynasty= 1062206 #af Skalholt
+	female=yes
+	culture="norse"
+	religion="catholic"
+	father= 260517
+	978.9.15={
+		birth="978.9.15"
+	}
+	999.12.31={
+		add_spouse= 2607898
+	}
+	1065.11.2={
+		death="1065.11.2"
+	}
+}
+
+
+2607900 = {
+	name="Þorkell"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607892
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1020.1.1={
+		capital=c_kujalleg
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+2607901 = {
+	name="Arne"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607900
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1080.1.1={
+		capital=c_kujalleg
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+2607902 = {
+	name="Odd"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607901
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1110.1.1={
+		capital=c_kujalleg
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+2607903 = {
+	name="Þorbrand"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607902 
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1140.1.1={
+		capital=c_kujalleg
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+2607904 = {
+	name="Grim"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607903
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1={
+		capital=c_kujalleg
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+2607905 = {
+	name="Olaf"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607904
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1200.1.1={
+		capital=c_kujalleg
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+2607906 = {
+	name="Yngvarr"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607905
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1230.1.1={
+		capital=c_kujalleg
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+2607907 = {
+	name="Rolf"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607906
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1260.1.1={
+		capital=c_kujalleg
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+2607908 = {
+	name="Eigil"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607907
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1290.1.1={
+		capital=c_kujalleg
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+2607909 = {
+	name="Balder"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607908
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1320.1.1={
+		capital=c_kujalleg
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+2607910 = {
+	name="Ragnar"
+	dynasty=1043504 #Naddoðr
+	culture="norwegian"
+	religion="catholic"
+	father= 2607909
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+2607915 ={
+	name=Þorkell
+	dynasty = 1062207
+	father = 261153
+	culture=norse religion=norse_pagan
+	912.11.22={ birth=yes }
+	951.12.22={ death=yes }
+}
+2607916 ={
+	name=Þorgeir
+	dynasty = 1062207
+	father = 2607915
+	learning = 13
+	stewardship = 11
+	culture=norse religion=catholic
+	940.11.22={ birth=yes }
+	1012.12.22={ death=yes }
+}

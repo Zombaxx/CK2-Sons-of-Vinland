@@ -1,0 +1,27 @@
+700.1.1={
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+745.1.1={holder= 2607592} #Nutamikuesh[1009990094]
+794.02.06={holder= 2607593} #Katshipunasht[1009990094]
+794.02.09={holder= 2607594} #Napeutiku[1009990094]
+821.10.16={holder= 2607595} #Shakani[1009990094]
+836.01.08={holder= 2607596} #Mishen[1009990094]
+881.05.26={holder= 2607597} #Akuaukusht[1009990094]
+904.11.21={holder= 2607598} #Pekissiu[1009990094]
+924.02.15={holder= 2607599} #Shuashem[1009990094]
+961.03.14={holder= 2607600} #Uemishtikushiss[1009990094]
+973.10.06={holder= 2607601} #Tshishkuetutsheunnu[1009990094]
+995.03.13={holder= 2607602} #Uemishtikushiss[1009990094]
+1013.07.03={holder= 2607603} #Shakani[1009990094]
+1045.10.20={holder= 2607604} #Mishtauiapeu[1009990094]
+1079.11.06={holder= 2607605} #Apinam[1009990094]
+1110.05.23={holder= 2607606} #Akuaukusht[1009990094]
+1135.01.15={holder= 2607607} #Tshishennish[1009990094]
+1165.08.31={holder= 2607608} #Ashtunishish[1009990094]
+1210.03.03={holder= 2607609} #Aissimess[1009990094]
+1212.04.20={holder= 2607610} #Manitesh[1009990094]
+1231.07.13={holder= 2607611} #Upinau[1009990094]
+1255.07.11={holder=2607612} #Uatshitshish[1009990094]
+1288.12.16={holder=2607613} #Napeutiku[1009990094]
+1331.05.11={holder=2607614} #Kaniuekutat[1009990094]

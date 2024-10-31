@@ -1,0 +1,115 @@
+2607951={
+	name=Tadodaho
+	dynasty=1009990134
+	culture=iroquois religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 learning=5 intrigue=7 add_trait=wroth add_trait=cruel add_trait=mystic
+	1100.10.8={ birth=yes }
+	1142.8.31 = {
+		create_bloodline = {
+			type = tadodaho
+		}
+	}
+	1201.09.03={ death=yes }
+}
+2607941={
+	name=Garakontie
+	dynasty=1009990134
+	culture=iroquois religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607951	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607942={
+	name=Hotrewati
+	dynasty=1009990134
+	culture=iroquois religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607941	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607943={
+	name=Kaheskarowaneh
+	dynasty=1009990134
+	culture=iroquois religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607942	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607944={
+	name=Canasetego
+	dynasty=1009990134
+	culture=iroquois religion=algic_pagan
+	father= 2607943	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607945={
+	name=Diaquande
+	dynasty=1009990134
+	culture=iroquois religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607944	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607946={
+	name=Wathadodarho
+	dynasty=1009990134
+	culture=iroquois religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607945	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607947={
+	name=Teyawarunte
+	dynasty=1009990134
+	culture=iroquois religion=algic_pagan
+	father= 2607946	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607948={
+	name=Kakhswenthioni
+	dynasty=1009990134
+	culture=iroquois religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607947	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}
+2607949={
+	name=Skennenrahawi
+	dynasty= 1009990147
+	culture=iroquois religion=algic_pagan
+	martial=5 diplomacy=9 stewardship=6 learning=7 add_trait=lisp
+	1100.10.8={ birth=yes }
+	1142.8.31 = {
+		create_bloodline = {
+			type = skennenrahawi
+		}
+	}
+	1201.09.03={ death=yes }
+}
+2607950={
+	name=Jigonhsasee
+	dynasty= 1009990146
+	culture=iroquois religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 learning=7
+add_trait=brave 
+	female=yes
+	1124.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}

@@ -1,0 +1,33 @@
+2607911 ={
+	name=Kortan
+	culture=pecheneg 
+	religion="tengri_pagan"
+	971.11.22={ birth=yes }
+	1012.12.22={ death=yes }
+}
+
+2607912 ={
+	name=Begluk
+	culture=cuman 
+	religion="tengri_pagan"
+	971.11.22={ birth=yes }
+	1012.12.22={ death=yes }
+}
+
+2607913 ={
+	name=Kutay
+	dynasty = 1062325
+	culture=turkish 
+	religion="tengri_pagan"
+	971.11.22={ birth=yes }
+	1012.12.22={ death=yes }
+}
+
+2607914 ={
+	name=Jing
+	dynasty=1045082 # Liao Dynasty
+	father = 194329
+	culture=khitan religion=buddhist
+	971.11.22={ birth=yes }
+	1012.12.22={ death=yes }
+}

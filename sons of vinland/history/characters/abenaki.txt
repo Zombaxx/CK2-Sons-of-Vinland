@@ -1,0 +1,663 @@
+2607400={
+	name=Askook
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607401={
+	name=Chogan
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607400	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607402={
+	name=Keme
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607401	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607403={
+	name=Etlelooat
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607402	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607404={
+	name=Lusilussit
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607403	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607405={
+	name=Achak
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607404	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607406={
+	name=Nootau
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed 
+	father= 2607405	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607407={
+	name=Keme
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607406	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607408={
+	name=Matunaaga
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607407	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607409={
+	name=Nonosbawsut
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607408	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607410={
+	name=Achak
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607409	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607411={
+	name=Melkedoodum
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607410	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607412={
+	name=Wematin
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607411	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607413={
+	name=Nootau
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607412	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607414={
+	name=Nashitt
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607413	#Tamaqua
+	1080.11.3={ birth=yes }
+	1142.01.30={ death=yes }
+}
+2607415={
+	name=Rowtag
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607414	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607416={
+	name=Keme
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607415	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607417={
+	name=Togguos
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607416	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607418={
+	name=Achak
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607417	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607419={
+	name=Matchitisiw
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607418	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607420={
+	name=Chogan
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607419	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607421={
+	name=Aranck
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607420	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607422={
+	name=Tihkoosue
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	father= 2607421	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607423={
+	name=Megedagik
+	dynasty=1009990127
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607422	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}
+
+##############
+
+2607424={
+	name=Nosh
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607425={
+	name=Makkapitew
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607424	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607426={
+	name=Nootau
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607425	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607427={
+	name=Segenam
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607426	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607428={
+	name=Pajackok
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607427	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607429={
+	name=Etchemin
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607428	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607430={
+	name=Matwau
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed 
+	father= 2607429	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607431={
+	name=Hassun
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607430	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607432={
+	name=Segenam
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607431	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607433={
+	name=Pessicus
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607432	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607434={
+	name=Askook
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607433	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607435={
+	name=Chogan
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607434	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607436={
+	name=Keme
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607435	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607437={
+	name=Etlelooat
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607436	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607438={
+	name=Achak
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607437	#Tamaqua
+	1080.11.3={ birth=yes }
+	1142.01.30={ death=yes }
+}
+2607439={
+	name=Nootau
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607438	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607440={
+	name=Keme
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607439	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607441={
+	name=Matunaaga
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607440	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607442={
+	name=Nonosbawsut
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607441	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607443={
+	name=Achak
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607442	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607444={
+	name=Melkedoodum
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607443	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607445={
+	name=Wematin
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607444	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607446={
+	name=Nootau
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	father= 2607445	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607447={
+	name=Rowtag
+	dynasty=1009990128
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607446	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}
+
+################
+
+2607448={
+	name=Rowtag
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607449={
+	name=Keme
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607448	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607450={
+	name=Togquos
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607449	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607451={
+	name=Achak
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607450	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607452={
+	name=Matchitisiw
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607451	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607453={
+	name=Chogan
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607452	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607454={
+	name=Aranck
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed 
+	father= 2607453	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607455={
+	name=Tihkoosue
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607454	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607456={
+	name=Megedagik
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607455	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607457={
+	name=Achak
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607456	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607458={
+	name=Sunukkuhkau
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607457	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607459={
+	name=Aranck
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607458	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607460={
+	name=Matunaaga
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607459	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607461={
+	name=Tihkoosue
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607460	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607462={
+	name=Huritt
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607461	#Tamaqua
+	1080.11.3={ birth=yes }
+	1142.01.30={ death=yes }
+}
+2607463={
+	name=Matchitisiw
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607462	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607464={
+	name=Noshi
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607463	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607465={
+	name=Enkoodabaoo
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607464	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607466={
+	name=Matunaaga
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607465	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607467={
+	name=Segenam
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607466	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607468={
+	name=Kestejoo
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607467	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607469={
+	name=Matwau
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607468	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607470={
+	name=Ahanu
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	father= 2607469	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607471={
+	name=Matwau
+	dynasty=1009990129
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607470	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}

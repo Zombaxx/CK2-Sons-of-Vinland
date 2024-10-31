@@ -1,0 +1,219 @@
+2607917={
+	name=Abukcheech
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607918={
+	name=Aranck
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607917	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607919={
+	name=Askook
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607918	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607920={
+	name=Sucki
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607919	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607921={
+	name=Sunukkuhkau
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607920	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607922={
+	name=Powwaw
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607921	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607923={
+	name=Rowtag
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed 
+	father= 2607922	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607924={
+	name=Pannoowau
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607923	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607925={
+	name=Matchitisiw
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607924	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607926={
+	name=Noshi
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607925	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607927={
+	name=Kestejoo
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607926	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607928={
+	name=Matchitisiw
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607927	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607929={
+	name=Huritt
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607928	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607930={
+	name=Kaminaushit
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607929	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607931={
+	name=Nonosbawsut
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607930	#Tamaqua
+	1080.11.3={ birth=yes }
+	1143.01.30={ death=yes }
+}
+2607932={
+	name=Shakani
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607931	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607933={
+	name=Tshim
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607932	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607934={
+	name=Kitchi
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607933	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607935={
+	name=Atiku
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607934	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607936={
+	name=Enkoodabaoo
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607935	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607937={
+	name=Nootau
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607936	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607938={
+	name=Hassun
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607937	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1338.03.26={ death=yes }
+}
+2607939={
+	name=Shanti
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	father= 2607938	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607940={
+	name=Enkoodabaoo
+	dynasty=1009990102
+	culture=mikmaq religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607939	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}

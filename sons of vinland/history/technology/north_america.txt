@@ -1,0 +1,31 @@
+technology = {
+	titles = {
+		d_beothuk
+		d_furd
+		d_epekwitk
+		d_kespek
+		d_qikiqtaaluk
+		d_nunavik
+		d_nunatsiavut
+		d_nitassinan
+		d_neenoilno
+		d_madawaska
+		d_kennebec
+		d_iroquoisia
+		d_mahican
+		d_manhattan
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+
+	}
+
+	1337 = {
+		military = 0.8
+		economy = 0.5
+		culture = 0.5
+	}
+}

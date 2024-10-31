@@ -1,0 +1,68 @@
+700.1.1={
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+745.1.1={holder= 2607663} #Miki[1009990073]
+766.1.1 = {
+	effect = {
+		location = {
+			add_province_modifier = {
+				modifier = incredibly_poor
+				duration = -1
+			}
+		}
+	}
+}
+773.07.21={holder= 2607664} #Nilak[1009990073]
+797.07.31={holder= 2607665} #Chulyin[1009990073]
+835.09.19={holder= 2607666} #Illiivat[1009990073]
+868.05.11={holder= 2607667} #Nerromiktok[1009990073]
+873.11.03={holder= 2607668} #Issorartuyok[1009990073]
+921.06.22={holder= 2607669} #Sesi[1009990073]
+930.01.14={holder= 2607670} #Anernerk[1009990073]
+944.04.11={holder= 2607671} #Piaktok[1009990073]
+#Naddoðr Dynasty
+986.1.1={
+	holder= 2607891 #Erik
+	effect = {
+		location = {
+			remove_province_modifier = incredibly_poor
+		}
+	}
+}
+1020.1.1={
+	holder= 2607892 #Leif
+}
+1050.1.1={
+	holder= 2607900 #Thorkell
+}
+1080.1.1={
+	holder= 2607901 #Arne
+}
+1110.1.1={
+	holder= 2607902 #Odd
+}
+1140.1.1={
+	holder= 2607903 #Torbrand
+}
+1170.1.1={
+	holder= 2607904 #Grim
+}
+1200.1.1={
+	holder= 2607905 #Olaf
+}
+1230.1.1={
+	holder= 2607906 #Yngvarr
+}
+1260.1.1={
+	holder= 2607907 #Rolf
+}
+1290.1.1={
+	holder= 2607908 #Eigil
+}
+1320.1.1={
+	holder= 2607909 #Balder
+}
+1350.1.1={
+	holder= 2607910 #Ragnar
+}

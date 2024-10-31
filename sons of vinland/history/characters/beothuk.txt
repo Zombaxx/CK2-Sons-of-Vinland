@@ -1,0 +1,441 @@
+2607615={
+	name=Matiu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607616={
+	name=Kuekuatsheu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607615	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607617={
+	name=Uitshikapeu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607616	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607618={
+	name=Uashaunnu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607617	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607619={
+	name=Tumassat
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607618	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607620={
+	name=Mishta
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607619	#Nanotetauxien
+	870.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607621={
+	name=Napesh
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed add_trait=harelip 
+	father= 2607620	#Pondoxy
+	910.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607622={
+	name=Uemishtikushiss
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607621	#Pondoxy
+	930.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607623={
+	name=Meshkana
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607622	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607624={
+	name=Pitan
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607623	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607625={
+	name=Minapakun
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607624	#Pondoxy
+	985.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607626={
+	name=Atshen
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607625	#Kithteeleland
+	1020.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607627={
+	name=Kaniuekutat
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607626	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607628={
+	name=Uashaunnu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607627	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607629={
+	name=Pipitsheu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607628	#Tamaqua
+	1080.11.3={ birth=yes }
+	1142.01.30={ death=yes }
+}
+2607630={
+	name=Utshimau
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607629	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607631={
+	name=Shimiu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607630	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607632={
+	name=Matiu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607631	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607633={
+	name=Utshimau
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607632	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607634={
+	name=Katshinukapaut
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607633	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607635={
+	name=Pekissiu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607634	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607636={
+	name=Maniteu
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607635	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607637={
+	name=Meshkana
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	father= 2607636	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607638={
+	name=Etuat
+	dynasty=1009990107
+	culture=beothuk religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607637	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}
+
+############
+
+2607639={
+	name=Atshen
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607640={
+	name=Napess
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607639	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607641={
+	name=Tanien
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607640	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607642={
+	name=Natupaniu
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607641	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607643={
+	name=Pipitsheu
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607642	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607644={
+	name=Mishtauiapeu
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607643	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607645={
+	name=Akuaukusht
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed add_trait=harelip 
+	father= 2607644	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607646={
+	name=Shushep
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607645	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607647={
+	name=Pien
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607646	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607648={
+	name=Kaniuekutat
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607647	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607649={
+	name=Upinau
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607648	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607650={
+	name=Tshakashue
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607649	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607651={
+	name=Shinipesht
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607650	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607652={
+	name=Kashupasset
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607651	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607653={
+	name=Tshishennish
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607652	#Tamaqua
+	1080.11.3={ birth=yes }
+	1143.01.30={ death=yes }
+}
+2607654={
+	name=Tshishpush
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607653	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607655={
+	name=Mishen
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607654	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607656={
+	name=Atshen
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607655	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607657={
+	name=Pikutushan
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607656	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607658={
+	name=Upinau
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607657	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607659={
+	name=Uitshitshimushish
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607658	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607660={
+	name=Apinam
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607659	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607661={
+	name=Aissimess
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	father= 2607660	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607662={
+	name=Napess
+	dynasty=1009990108
+	culture=beothuk religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607661	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}

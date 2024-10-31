@@ -1,0 +1,57 @@
+# Songs of the New World by Andreas Waldetoft
+# Three songs to play.
+
+song = {
+	name = "thegrandarmada.ogg"
+	song_name = "The Grand Armada"	
+		chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOR = {
+				culture_group = sivullirmiut
+				culture_group = cree_algonquian
+				culture_group = wabanaki_algonquian
+			}
+		}		
+	}
+	volume = 0.45
+}
+
+song = {
+	name = "thehunt.ogg"
+	song_name = "The Hunt"	
+		chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOR = {
+				culture_group = sivullirmiut
+				culture_group = cree_algonquian
+				culture_group = wabanaki_algonquian
+			}
+		}		
+	}
+	volume = 0.45
+}
+
+
+
+
+
+song = {
+	name = "travelthenewworld.ogg"
+	song_name = "Travel The New World"	
+		chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOR = {
+				culture_group = sivullirmiut
+				culture_group = cree_algonquian
+				culture_group = wabanaki_algonquian
+			}
+		}		
+	}
+	volume = 0.45
+}

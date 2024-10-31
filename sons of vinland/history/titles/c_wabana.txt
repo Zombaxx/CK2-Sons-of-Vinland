@@ -1,0 +1,28 @@
+700.1.1={
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+745.1.1={holder= 2607615} #Shimiu[1009990109]
+779.01.28={holder= 2607616} #Kaniuekutat[1009990109]
+814.09.25={holder= 2607617} #Shinipesht[1009990109]
+816.01.11={holder= 2607618} #Kutshinapess[1009990109]
+864.09.29={holder= 2607619} #Uatshitshish[1009990109]
+867.01.28={holder= 2607620} #Utshimauapeu[1009990109]
+897.04.27={holder= 2607621} #Maniteu[1009990109]
+926.09.23={holder= 2607622} #Tshakashue[1009990109]
+949.02.07={holder= 2607623} #Mishta-Napesh[1009990109]
+976.11.05={holder= 2607624} #Pitan[1009990109]
+1010.04.24={holder= 2607625} #Tanien[1009990109]
+1013.03.10={holder= 2607626} #Pikutushan[1009990109]
+1043.08.01={holder= 2607627} #Kapinien[1009990109]
+1071.10.20={holder= 2607628} #Shanti[1009990109]
+1125.08.05={holder= 2607629} #Uniam[1009990109]
+1125.12.06={holder= 2607630} #Akuaukusht[1009990109]
+1172.06.28={holder= 2607631} #Shapatish[1009990109]
+1178.01.03={holder= 2607632} #Shushep[1009990109]
+1210.06.15={holder= 2607633} #Aissimess[1009990109]
+1224.08.26={holder= 2607634} #Tshishkuetutsheunnu[1009990109]
+1247.04.29={holder= 2607635} #Manitesh[1009990109]
+1286.04.10={holder= 2607636} #Pienshak[1009990109]
+1304.02.17={holder= 2607637} #Napess[1009990109]
+1343.09.22={holder= 2607638} #Pienshak[1009990109]

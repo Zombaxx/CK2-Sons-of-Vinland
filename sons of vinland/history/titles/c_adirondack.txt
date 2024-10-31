@@ -1,0 +1,32 @@
+700.1.1={
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+744.1.1={holder= 2607303} #Tunis[1009990123]
+794.07.17={holder= 2607304} #Bukongehelas[1009990123]
+800.01.31={holder= 2607305} #Quenaghtoothmait[1009990123]
+836.05.22={holder= 2607306} #Kkoquethagechton[1009990123]
+875.06.26={holder= 2607307} #Rockatowah[1009990123]
+903.07.22={holder= 2607308} #Kithteeleland[1009990123]
+942.11.25={holder= 2607309} #Kechkawhanund[1009990123]
+946.05.28={holder= 2607310} #Bukongehelas[1009990123]
+981.09.29={holder= 2607311} #Alimee[1009990123]
+989.04.07={holder= 2607312} #Caghkoo[1009990123]
+1018.09.27={holder= 2607313} #Quacornowha[1009990123]
+1040.09.25={holder= 2607314} #Neconhecon[1009990123]
+1080.05.25={holder= 2607315} #Quacornowha[1009990123]
+1124.10.15={holder= 2607316} #Quenaghtoothmait[1009990123]
+1132.12.16={holder= 2607317} #Bukongehelas[1009990123]
+1142.01.30={holder= 2607318} #Buckongahelas[1009990123]
+1142.08.31={holder= 2607951} #Tadodaho[1009990123]
+1142.08.31={
+	liege = "d_iroquoisia"
+}
+1201.09.03={holder= 2607941} #Quacornowha[1009990123]
+1203.02.16={holder= 2607942} #Neconhecon[1009990123]
+1245.05.24={holder= 2607943} #Kkoquethagechton[1009990123]
+1253.06.17={holder= 2607944} #Pondoxy[1009990123]
+1295.02.08={holder= 2607945} #Kockkatowha[1009990123]
+1307.12.19={holder= 2607946} #Queshatowha[1009990123]
+1331.03.26={holder= 2607947} #Hopocan[1009990123]
+1384.07.11={holder= 2607948} #Neconhecond[1009990123]

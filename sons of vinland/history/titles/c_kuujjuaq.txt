@@ -1,0 +1,28 @@
+700.1.1={
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+744.1.1={holder= 2607743} #Irdlirvirisissong[1009990081]
+781.12.10={holder= 2607744} #Pukulria[1009990081]
+790.03.03={holder= 2607745} #Aukaneck[1009990081]
+831.07.04={holder= 2607746} #Tikaani[1009990081]
+863.05.15={holder= 2607747} #Nannuraluk[1009990081]
+866.04.19={holder= 2607748} #Mequssuk[1009990081]
+897.11.28={holder= 2607749} #Iglopuk[1009990081]
+919.03.07={holder= 2607750} #Deniigi[1009990081]
+958.02.04={holder= 2607751} #Nerromiktok[1009990081]
+953.12.25={holder= 2607752} #Anuniaq[1009990081]
+994.08.23={holder= 2607753} #Sinaaq[1009990081]
+1019.12.04={holder= 2607754} #Asiavik[1009990081]
+1053.08.17={holder= 2607755} #Alornerk[1009990081]
+1069.12.09={holder= 2607756} #Torngasak[1009990081]
+1113.05.28={holder= 2607757} #Umiaktorvik[1009990081]
+1129.01.19={holder= 2607758} #Kanguyak[1009990081]
+1155.04.27={holder= 2607759} #Anernerk[1009990081]
+1183.01.20={holder= 2607760} #Aukaneck[1009990081]
+1212.03.16={holder= 2607761} #Piktaungitok[1009990081]
+1258.08.07={holder= 2607762} #Torngasak[1009990081]
+1270.04.09={holder= 2607763} #Suka[1009990081]
+1296.02.21={holder= 2607764} #Ipiktok[1009990081]
+1330.07.19={holder= 2607765} #Karpok[1009990081]
+1342.11.07={holder= 2607766} #Nanuq[1009990081]

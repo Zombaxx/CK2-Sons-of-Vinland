@@ -1,0 +1,227 @@
+2607303={
+	name=Sequidonguquee
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607304={
+	name=Soggooyawauthau
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607303	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607305={
+	name=Ononyeahnee
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607304	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607306={
+	name=Hotoshahen
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607305	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607307={
+	name=Sicahowa
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607306	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607308={
+	name=Kiatulaho
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607307	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607309={
+	name=Otachsaka
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed add_trait=harelip 
+	father= 2607308	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607310={
+	name=Aqueia
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607309	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607311={
+	name=Thayendanega
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607310	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607312={
+	name=Twaukewasha
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607311	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607313={
+	name=Onnonghsawenghti
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607312	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607314={
+	name=Kaukondanaiya
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607313	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607315={
+	name=Tekahias
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607314	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607316={
+	name=Nondiyauka
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607315	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607317={
+	name=Sohhonteoquent
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607316	#Tamaqua
+	1080.11.3={ birth=yes }
+	1142.01.30={ death=yes }
+}
+
+2607318={
+	name=Hiawatha
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	diplomacy=7 stewardship=8 intrigue=4 learning=6
+	add_trait=gregarious
+	father= 2607317	#Tamaqua
+	1100.10.8={ birth=yes }
+	1142.8.31 = {
+		create_bloodline = {
+			type = hiawatha
+		}
+	}
+	1201.09.03={ death=yes }
+}
+2607319={
+	name=Ononyeahnee
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607318	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607320={
+	name=Gyasota
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607319	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607321={
+	name=Kaukondanaiya
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607320	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607322={
+	name=Toheonggo
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607321	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607323={
+	name=Twenniyana
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607322	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607324={
+	name=Telenemut
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607323	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607325={
+	name=Teiorhenhsere
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	father= 2607324	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607326={
+	name=Anachout
+	dynasty=1009990133
+	culture=iroquois religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607325	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}

@@ -1,0 +1,41 @@
+#Naddor Dynasty
+986.1.1={
+	holder= 2607891 #Erik
+}
+1020.1.1={
+	holder= 2607892 #Leif
+}
+1050.1.1={
+	holder= 2607900 #Thorkell
+}
+1080.1.1={
+	holder= 2607901 #Arne
+}
+1110.1.1={
+	holder= 2607902 #Odd
+}
+1140.1.1={
+	holder= 2607903 #Torbrand
+}
+1170.1.1={
+	holder= 2607904 #Grim
+}
+1200.1.1={
+	holder= 2607905 #Olaf
+}
+1230.1.1={
+	holder= 2607906 #Yngvarr
+}
+1260.1.1={
+	liege="k_norway"
+	holder= 2607907 #Rolf
+}
+1290.1.1={
+	holder= 2607908 #Eigil
+}
+1320.1.1={
+	holder= 2607909 #Balder
+}
+1350.1.1={
+	holder= 2607910 #Ragnar
+}

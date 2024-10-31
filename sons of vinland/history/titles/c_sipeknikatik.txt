@@ -1,0 +1,28 @@
+700.1.1={
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+744.1.1={holder= 2607544} #Atiku[1009990104]
+777.02.11={holder= 2607545} #Aissimess[1009990104]
+796.04.05={holder= 2607546} #Mishtauiapeu[1009990104]
+835.09.05={holder= 2607547} #Utshimauapeu[1009990104]
+855.05.04={holder= 2607548} #Tshishkuetutsheunnu[1009990104]
+888.07.11={holder= 2607549} #Shuashem[1009990104]
+922.09.15={holder= 2607550} #Manitesh[1009990104]
+922.12.22={holder= 2607551} #Akuaukusht[1009990104]
+939.12.30={holder= 2607552} #Maikan[1009990104]
+997.03.30={holder= 2607553} #Tumassat[1009990104]
+1007.10.26={holder= 2607554} #Shimiu[1009990104]
+1033.12.11={holder= 2607555} #Uniam[1009990104]
+1051.08.02={holder= 2607556} #Nutamikuesh[1009990104]
+1073.08.04={holder= 2607557} #Pienshak[1009990104]
+1092.09.01={holder= 2607558} #Meshkana[1009990104]
+1143.11.28={holder= 2607559} #Maikan[1009990104]
+1179.06.02={holder= 2607560} #Atamakaniss[1009990104]
+1223.07.27={holder= 2607561} #Tshim[1009990104]
+1242.09.30={holder= 2607562} #Natupaniu[1009990104]
+1257.12.01={holder= 2607563} #Pienshak[1009990104]
+1291.06.08={holder= 2607564} #Uniam[1009990104]
+1309.12.28={holder= 2607565} #Kautatikumit[1009990104]
+1329.12.30={holder= 2607566} #Uemishtikushiss[1009990104]
+1363.06.21={holder= 2607567} #Pikutushan[1009990104]

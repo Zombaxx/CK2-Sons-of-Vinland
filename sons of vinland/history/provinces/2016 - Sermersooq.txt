@@ -1,0 +1,32 @@
+# 3232 - Sermersooq
+
+# County Title
+title = c_sermersooq
+
+# Settlements
+max_settlements = 4
+b_sermersooq = tribal
+b_ameralik = temple
+#b_nuuk = tribal
+#b_ujarassuit = tribal
+#b_kangeq = tribal
+#b_atammik = tribal
+#b_kapisillit = tribal
+
+# Misc
+culture = tuniq
+religion = tuniit_pagan terrain = arctic
+
+# History
+
+986.1.1 = {
+	culture = norse
+	religion = norse_pagan
+	b_sermersooq = castle
+}
+999.1.1 = {
+	b_sermersooq = ca_shipyard_1
+	culture = norse
+	religion = catholic
+}
+1066.1.1 = { culture = norwegian }

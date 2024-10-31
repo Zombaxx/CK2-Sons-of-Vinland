@@ -1,0 +1,440 @@
+2607327={
+	name=Shateyyaronyah
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607328={
+	name=Ahatsistari
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607327	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607329={
+	name=Doueyenteat
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607328	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607330={
+	name=Quouqua
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607329	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607331={
+	name=Dunquat
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607330	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607332={
+	name=Shateyyaronyah
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607331	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607333={
+	name=Otachsaka
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed add_trait=harelip 
+	father= 2607332	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607334={
+	name=Rontondu
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607333	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607335={
+	name=Stayetah
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607334	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607336={
+	name=Thateyyanayoh
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607335	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607337={
+	name=Tarhe
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607336	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607338={
+	name=Ahatsistari
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607337	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607339={
+	name=Tekahias
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607338	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607340={
+	name=Teoudetosso
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607339	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607341={
+	name=Sohhonteoquent
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607340	#Tamaqua
+	1080.11.3={ birth=yes }
+	1142.01.30={ death=yes }
+}
+2607342={
+	name=Haroenyou
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607341	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607343={
+	name=Skotous
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607342	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607344={
+	name=Stayetah
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607343	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607345={
+	name=Kaukondanaiya
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607344	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607346={
+	name=Toheonggo
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607345	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607347={
+	name=Tahunehawttee
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607346	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607348={
+	name=Maudoronk
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607347	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607349={
+	name=Skotous
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	father= 2607348	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607350={
+	name=Tehaawtorens
+	dynasty=1009990130
+	culture=kanata religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607349	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}
+
+################
+2607351={
+	name=Sequidonguquee
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607352={
+	name=Soggooyawauthau
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607351	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607353={
+	name=Ononyeahnee
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607352	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607354={
+	name=Hotoshahen
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607353	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607355={
+	name=Sicahowa
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607354	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607356={
+	name=Kiatulaho
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607355	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607357={
+	name=Otachsaka
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed add_trait=harelip 
+	father= 2607356	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607358={
+	name=Aqueia
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607357	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607359={
+	name=Thayendanega
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607358	#Pondoxy
+	940.7.15={ birth=yes }
+	1001.04.07={ death=yes }
+}
+2607360={
+	name=Twaukewasha
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607359	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607361={
+	name=Onnonghsawenghti
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607360	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607362={
+	name=Kaukondanaiya
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607361	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607363={
+	name=Tekahias
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607362	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607364={
+	name=Nondiyauka
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607363	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1142.12.16={ death=yes }
+}
+2607365={
+	name=Sohhonteoquent
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607364	#Tamaqua
+	1080.11.3={ birth=yes }
+	1142.01.30={ death=yes }
+}
+2607366={
+	name=Kodjeote
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607365	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607367={
+	name=Ononyeahnee
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607366	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607368={
+	name=Gyasota
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607367	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607369={
+	name=Kaukondanaiya
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607368	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607370={
+	name=Toheonggo
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607369	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607371={
+	name=Twenniyana
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607370	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607372={
+	name=Telenemut
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607371	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1339.03.26={ death=yes }
+}
+2607373={
+	name=Teiorhenhsere
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	father= 2607372	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607374={
+	name=Anachout
+	dynasty=1009990131
+	culture=kanata religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607373	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}

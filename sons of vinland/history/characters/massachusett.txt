@@ -1,0 +1,255 @@
+2607279={
+	name=Nanotetauxien
+	dynasty=1009990122
+	dna="epgholmpjkk"
+	culture=massachusett religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste add_trait=kind 
+	720.11.22={ birth=yes }
+	794.07.17={ death=yes }
+}
+2607280={
+	name=Awowas
+	dynasty=1009990122
+	dna="hpgohphnfpk"
+	culture=massachusett religion=algic_pagan
+	father= 2607279	#Nanotetauxien
+	740.1.3={ birth=yes }
+	800.01.31={ death=yes }
+}
+2607281={
+	name=Pondoxy
+	dynasty=1009990122
+	dna="eighblpdjnd"
+	culture=massachusett religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father= 2607280	#Nanotetauxien
+	780.8.7={ birth=yes }
+	836.05.22={ death=yes }
+}
+2607282={
+	name=Moconnoquah
+	
+	dynasty=1009990122
+	dna="jajhopmpjbg"
+	culture=massachusett religion=algic_pagan
+	father= 2607281	#Nanotetauxien
+	800.1.9={ birth=yes }
+	875.06.26={ death=yes }
+}
+2607283={
+	name=Awowas
+	
+	dynasty=1009990122
+	dna="epaholmfjak"
+	culture=massachusett religion=algic_pagan
+	father= 2607282	#Nanotetauxien
+	860.1.19={ birth=yes }
+	903.07.22={ death=yes }
+}
+2607284={
+	name=Awowas
+	
+	dynasty=1009990122
+	dna="jpdlinmdjek"
+	culture=massachusett religion=algic_pagan
+	father= 2607283	#Nanotetauxien
+	880.9.4={ birth=yes }
+	942.11.25={ death=yes }
+}
+2607285={
+	name=Kithteeleland
+	dynasty=1009990122
+	dna="ejfhblbdjnm"
+	culture=massachusett religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed add_trait=harelip 
+	father= 2607284	#Pondoxy
+	900.1.22={ birth=yes }
+	946.05.28={ death=yes }
+}
+2607286={
+	name=Moconnoquah
+	
+	dynasty=1009990122
+	dna="fidmmlpfaoo"
+	culture=massachusett religion=algic_pagan
+	father= 2607285	#Pondoxy
+	920.2.8={ birth=yes }
+	981.09.29={ death=yes }
+}
+2607287={
+	name=Cholena
+	
+	dynasty=1009990122
+	dna="eilhblpdjnd"
+	culture=massachusett religion=algic_pagan
+	father= 2607286	#Pondoxy
+	940.7.15={ birth=yes }
+	989.04.07={ death=yes }
+}
+2607288={
+	name=Cholena
+	
+	dynasty=1009990122
+	dna="elghckedkpf"
+	culture=massachusett religion=algic_pagan
+	father= 2607287	#Pondoxy
+	960.7.21={ birth=yes }
+	1018.09.27={ death=yes }
+}
+2607289={
+	name=Moconnoquah
+	
+	dynasty=1009990122
+	dna="kiehblpfjfb"
+	culture=massachusett religion=algic_pagan
+	father= 2607288	#Pondoxy
+	980.8.27={ birth=yes }
+	1040.09.25={ death=yes }
+}
+2607290={
+	name=Tamaqua
+	dynasty=1009990122
+	dna="ejfnbcbcpme"
+	culture=massachusett religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel  add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father= 2607289	#Kithteeleland
+	1000.8.17={ birth=yes }
+	1080.05.25={ death=yes }
+}
+2607291={
+	name=Moconnoquah
+	
+	dynasty=1009990122
+	dna="fhenfdfejgm"
+	culture=massachusett religion=algic_pagan
+	father= 2607290	#Kithteeleland
+	1025.4.25={ birth=yes }
+	1124.10.15={ death=yes }
+}
+2607292={
+	name=Cholena
+	
+	dynasty=1009990122
+	dna="mjfcalgdjio"
+	culture=massachusett religion=algic_pagan
+	father= 2607291	#Kithteeleland
+	1045.9.12={ birth=yes }
+	1132.12.16={ death=yes }
+}
+2607293={
+	name=Kockkockquas
+	dynasty=1009990122
+	dna="eefebhncnbb"
+	culture=massachusett religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father= 2607292	#Tamaqua
+	1080.11.3={ birth=yes }
+	1142.01.30={ death=yes }
+}
+2607294={
+	name=Moconnoquah
+	
+	dynasty=1009990122
+	dna="aomnbmjopme"
+	culture=massachusett religion=algic_pagan
+	father= 2607293	#Tamaqua
+	1100.10.8={ birth=yes }
+	1201.09.03={ death=yes }
+}
+2607295={
+	name=Kkoquethagechton
+	dynasty=1009990122
+	dna="egfadmbjpmd"
+	culture=massachusett religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father= 2607294	#Tamaqua
+	1170.10.22={ birth=yes }
+	1203.02.16={ death=yes }
+}
+2607296={
+	name=Rockatowah
+	dynasty=1009990122
+	dna="ejfnbaccgii"
+	culture=massachusett religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	add_trait=kind add_trait=ambitious 
+	father= 2607295	#Tamaqua
+	1190.8.12={ birth=yes }
+	1245.05.24={ death=yes }
+}
+2607297={
+	name=Tunis
+	dynasty=1009990122
+	dna="ecfedjncngj"
+	culture=massachusett religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father= 2607296	#Kockkockquas
+	1210.8.5={ birth=yes }
+	1253.06.17={ death=yes }
+}
+2607298={
+	name=Cholena
+	
+	dynasty=1009990122
+	dna="eondmdcclbb"
+	culture=massachusett religion=algic_pagan
+	father= 2607297	#Kockkockquas
+	1230.7.3={ birth=yes }
+	1295.02.08={ death=yes }
+}
+2607299={
+	name=Quenaghtoothmait
+	dynasty=1009990122
+	dna="meojhhfcnhb"
+	culture=massachusett religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cruel add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble add_trait=kind 
+	father= 2607298	#Kockkockquas
+	1250.4.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+2607300={
+	name=Neconhecon
+	dynasty=1009990122
+	dna="emfeddoanmd"
+	culture=massachusett religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father= 2607299	#Kockkockquas
+	1270.5.25={ birth=yes }
+	1331.03.26={ death=yes }
+}
+2607301={
+	name=Moconnoquah
+	
+	dynasty=1009990122
+	dna="jcnbajllkgb"
+	culture=massachusett religion=algic_pagan
+	father= 2607300	#Tunis
+	1290.1.10={ birth=yes }
+	1384.07.11={ death=yes }
+}
+2607302={
+	name=Pooshies
+	dynasty=1009990122
+	dna="ecmcbpecngp"
+	culture=massachusett religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father= 2607301	#Tunis
+	1320.10.26={ birth=yes }
+	1393.11.23={ death=yes }
+}

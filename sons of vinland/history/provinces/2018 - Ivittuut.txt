@@ -1,0 +1,32 @@
+# 3312 - Ivittuut
+
+# County Title
+title = c_ivittuut
+
+# Settlements
+max_settlements = 3
+b_ivittuut = tribal
+#b_kangilinnguit = tribal
+#b_paamiut = tribal
+#b_arsuk = tribal
+#b_ikermiut = tribal
+#b_qeqertarsuatsiaat = tribal
+#b_nunarssit = tribal
+
+# Misc
+culture = tuniq
+religion = tuniit_pagan terrain = arctic
+
+# History
+
+986.1.1 = {
+	culture = norse
+	religion = norse_pagan
+}
+1003.1.1 = {
+	religion = catholic
+}
+1066.1.1 = {
+	b_ivittuut = castle
+	culture = norwegian
+}
